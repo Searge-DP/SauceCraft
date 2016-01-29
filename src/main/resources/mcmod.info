@@ -1,0 +1,16 @@
+[
+{
+  "modid": "saucecraft",
+  "name": "SauceCraft",
+  "description": "A mod that adds sauce to Minecraft, made for Runew0lf.",
+  "version": "0.0.1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["KitsuneAlex"],
+  "credits": "Runew0lf for being the best Streamer :)",
+  "logoFile": "/logo",
+  "screenshots": [],
+  "dependencies": []
+}
+]

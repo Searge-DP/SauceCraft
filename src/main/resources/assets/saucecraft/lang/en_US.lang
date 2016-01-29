@@ -1,0 +1,13 @@
+itemGroup.tabSauceCraft=SauceCraft
+
+item.saucecraft.sauceBottle.ketchup.name=Bottle o' Ketchup
+item.saucecraft.sauceBottle.bbq.name=Bottle o' BBQ Sauce
+item.saucecraft.sauceBottle.special.name=Bottle o' Special Sauce
+item.saucecraft.saucePork.ketchup.name=Pork with Ketchup
+item.saucecraft.saucePork.bbq.name=BBQ Steak
+item.saucecraft.saucePork.special.name=Steak ala Rune
+item.saucecraft.sauceBeef.ketchup.name=Beef with Ketchup
+item.saucecraft.sauceBeef.bbq.name=BBQ Beef
+item.saucecraft.sauceBeef.special.name=Beef ala Rune
+
+tile.saucecraft.sauceTrophy.name=BBQ Trophy
